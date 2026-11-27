@@ -1,0 +1,5 @@
+cd cinematch
+git init
+git add .
+git commit -m "Initial commit: CineMatch movie recommender"
+git branch -M main
